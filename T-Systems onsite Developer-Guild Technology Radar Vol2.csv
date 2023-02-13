@@ -37,7 +37,3 @@ Gradle Kotlin DSL;Trial;languages-and-frameworks;FALSE;"<p>Previously, we blippe
 Cypress Component Testing;Assess;languages-and-frameworks;TRUE;"<p><a href=""https://docs.cypress.io/guides/component-testing/writing-your-first-component-test""><strong>Cypress Component Testing</strong></a> provides a testable component workbench to quickly build and test UI components. You can write component visual regression tests with the same API that you write end-to-end (E2E) UI tests. Although still in beta, component testing will be the most important feature in <a href=""/radar/tools/cypress"">Cypress</a> 10.</p>"
 Podman;Adopt;Tools;FALSE;
 WSL2;Adopt;Tools;FALSE;
-;;;;
-;;;;
-;;;;
-;;;;
